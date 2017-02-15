@@ -14,6 +14,9 @@ use the trained network to predict input image
 ### imagenet_inference.py
 use alexnet to predict on input image
 
+### alexnet.py
+set up alexnet network
+
 
 #Dataset download links
  [Download the dataset](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip). 
